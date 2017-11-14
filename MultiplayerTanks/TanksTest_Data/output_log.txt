@@ -1,0 +1,278 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7600M Series (ID=0x6840)
+    Vendor:   ATI
+    VRAM:     2031 MB
+    Driver:   13.251.9001.1001
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Александр\Documents\MultiplayerTanks\TanksTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Александр\Documents\MultiplayerTanks\TanksTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Александр\Documents\MultiplayerTanks\TanksTest_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Александр\Documents\MultiplayerTanks\TanksTest_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Александр\Documents\MultiplayerTanks\TanksTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Александр\Documents\MultiplayerTanks\TanksTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Александр\Documents\MultiplayerTanks\TanksTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Александр\Documents\MultiplayerTanks\TanksTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Александр\Documents\MultiplayerTanks\TanksTest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Александр\Documents\MultiplayerTanks\TanksTest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.033 seconds
+Platform assembly: C:\Users\Александр\Documents\MultiplayerTanks\TanksTest_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Александр\Documents\MultiplayerTanks\TanksTest_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.188953 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: ca0 -> priority: 1 
+  Thread -> id: 1a0c -> priority: 1 
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7600M Series (ID=0x6840)
+    Vendor:   ATI
+    VRAM:     2031 MB
+    Driver:   13.251.9001.1001
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Александр\Documents\MultiplayerTanks\TanksTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Александр\Documents\MultiplayerTanks\TanksTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Александр\Documents\MultiplayerTanks\TanksTest_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Александр\Documents\MultiplayerTanks\TanksTest_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Александр\Documents\MultiplayerTanks\TanksTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Александр\Documents\MultiplayerTanks\TanksTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Александр\Documents\MultiplayerTanks\TanksTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Александр\Documents\MultiplayerTanks\TanksTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Александр\Documents\MultiplayerTanks\TanksTest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Александр\Documents\MultiplayerTanks\TanksTest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.030 seconds
+Platform assembly: C:\Users\Александр\Documents\MultiplayerTanks\TanksTest_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Александр\Documents\MultiplayerTanks\TanksTest_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.202769 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1d68 -> priority: 1 
+  Thread -> id: 1ca4 -> priority: 1 
+Did not find target for sync message for 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Did not find target for sync message for 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerPrefab(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 92)
+
+PlayerPrefab(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 92)
+
+Did not find target for sync message for 14
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerPrefab(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TankHealth.OnDeath () [0x00000] in <filename unknown>:0 
+  at TankHealth.TakeDmg (Single dmg) [0x00000] in <filename unknown>:0 
+  at Bullet.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+PlayerPrefab(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 92)
+
+PlayerPrefab(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 92)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 92)
+
+PlayerPrefab(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 92)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 92)
+
+PlayerPrefab(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 92)
+
+Did not find target for sync message for 30
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerPrefab(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TankHealth.OnDeath () [0x00000] in <filename unknown>:0 
+  at TankHealth.TakeDmg (Single dmg) [0x00000] in <filename unknown>:0 
+  at Bullet.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 92)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 92)
+
+PlayerPrefab(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 92)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 92)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 92)
+
+PlayerPrefab(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Did not find target for sync message for 41
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerPrefab(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 92)
+
+Did not find target for sync message for 44
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerPrefab(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TankHealth.OnDeath () [0x00000] in <filename unknown>:0 
+  at TankHealth.TakeDmg (Single dmg) [0x00000] in <filename unknown>:0 
+  at Bullet.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 92)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 92)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 92)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 92)
+
+PlayerPrefab(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 92)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 92)
+
+PlayerPrefab(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 92)
+
+PlayerPrefab(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 92)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 92)
+
+PlayerPrefab(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Did not find target for sync message for 63
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerPrefab(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TankHealth.OnDeath () [0x00000] in <filename unknown>:0 
+  at TankHealth.TakeDmg (Single dmg) [0x00000] in <filename unknown>:0 
+  at Bullet.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+reactor filed to acomplish request with code {1234}, bytesReceived {0}
+reactor filed to acomplish request with code {1234}, bytesReceived {0}
