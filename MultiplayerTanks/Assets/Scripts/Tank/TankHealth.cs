@@ -43,10 +43,6 @@ public class TankHealth: NetworkBehaviour {
 			transform.position = spawnPoints [Random.Range (0, spawnPoints.Length)].position;
 			transform.rotation = spawnPoints [Random.Range (0, spawnPoints.Length)].rotation;
 			currentHP = maxHP;
-			if (isLocalPlayer)
-				gameManager.RpcChangeScore (true);
-			else
-				gameManager.RpcChangeScore (false);
 		}
 	}
 
